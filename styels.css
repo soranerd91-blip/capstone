@@ -1,0 +1,30 @@
+        .text-shepa{
+            font-weight: bold;
+    }
+
+    body{background-color: darkolivegreen;}
+
+.head{
+    color: darkgoldenrod;
+  
+}
+h1 {font-family: 'Courier New', Courier, monospace;
+color: #980404;
+}
+.sherpa {
+border: black;
+
+
+
+}
+.img-link{
+    border:1px solid black;
+}
+.body-custom {
+    background-color: burlywood;
+}
+
+.pic-1{
+display: flex
+   
+}
