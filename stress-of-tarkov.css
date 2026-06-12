@@ -5,10 +5,10 @@ color: #ff5900;
 
 .p-text{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #971bef;
+    color:#ff5900
     
 }
-
+h1{color: #ff5900;}
 body {
     background-image: url("./images/Escape-From-Tarkov-Streets-of-Tarkov-map-2000x1270-1-1392x884.jpg");
     background-size: cover;        
